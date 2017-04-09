@@ -1,3 +1,2 @@
 # gabage_bucket
-The project is based on Arduino. Developed for educational purposes. The idea is taken from a blogger.I will be glad to cooperate.
-The project develops every day.
+Проект умного мусорного ведра, который может собрать каждый человек за один вечер, имея только базовые знания и технику программирования на Arduino.
